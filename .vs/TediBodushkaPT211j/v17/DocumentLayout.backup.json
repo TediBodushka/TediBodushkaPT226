@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tedi\\source\\repos\\TediBodushkaPT211j\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD9B9143-586A-4124-AE50-568331C364E4}|DataLayer\\DataLayer.csproj|c:\\users\\tedi\\source\\repos\\tedibodushkapt211j\\datalayer\\gamesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD9B9143-586A-4124-AE50-568331C364E4}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\gamesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD9B9143-586A-4124-AE50-568331C364E4}|DataLayer\\DataLayer.csproj|c:\\users\\tedi\\source\\repos\\tedibodushkapt211j\\datalayer\\genrecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD9B9143-586A-4124-AE50-568331C364E4}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\genrecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD9B9143-586A-4124-AE50-568331C364E4}|DataLayer\\DataLayer.csproj|c:\\users\\tedi\\source\\repos\\tedibodushkapt211j\\datalayer\\gamecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD9B9143-586A-4124-AE50-568331C364E4}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\gamecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299161E3-57E0-4E4A-B671-E1C563DB1186}|TestingLayer\\TestingLayer.csproj|c:\\users\\tedi\\source\\repos\\tedibodushkapt211j\\testinglayer\\gamecontexttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299161E3-57E0-4E4A-B671-E1C563DB1186}|TestingLayer\\TestingLayer.csproj|solutionrelative:testinglayer\\gamecontexttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299161E3-57E0-4E4A-B671-E1C563DB1186}|TestingLayer\\TestingLayer.csproj|c:\\users\\tedi\\source\\repos\\tedibodushkapt211j\\testinglayer\\testmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299161E3-57E0-4E4A-B671-E1C563DB1186}|TestingLayer\\TestingLayer.csproj|solutionrelative:testinglayer\\testmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD9B9143-586A-4124-AE50-568331C364E4}|DataLayer\\DataLayer.csproj|c:\\users\\tedi\\source\\repos\\tedibodushkapt211j\\datalayer\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD9B9143-586A-4124-AE50-568331C364E4}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD9B9143-586A-4124-AE50-568331C364E4}|DataLayer\\DataLayer.csproj|c:\\users\\tedi\\source\\repos\\tedibodushkapt211j\\datalayer\\migrations\\20250415221942_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD9B9143-586A-4124-AE50-568331C364E4}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\migrations\\20250415221942_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D961A0ED-38E0-44B8-9828-F660716209A1}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\tedi\\source\\repos\\tedibodushkapt211j\\businesslayer\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D961A0ED-38E0-44B8-9828-F660716209A1}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D961A0ED-38E0-44B8-9828-F660716209A1}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\tedi\\source\\repos\\tedibodushkapt211j\\businesslayer\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D961A0ED-38E0-44B8-9828-F660716209A1}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D961A0ED-38E0-44B8-9828-F660716209A1}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\tedi\\source\\repos\\tedibodushkapt211j\\businesslayer\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D961A0ED-38E0-44B8-9828-F660716209A1}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD9B9143-586A-4124-AE50-568331C364E4}|DataLayer\\DataLayer.csproj|c:\\users\\tedi\\source\\repos\\tedibodushkapt211j\\datalayer\\idb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD9B9143-586A-4124-AE50-568331C364E4}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\idb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameContextTest.cs",
+              "DocumentMoniker": "C:\\Users\\Tedi\\source\\repos\\TediBodushkaPT211j\\TestingLayer\\GameContextTest.cs",
+              "RelativeDocumentMoniker": "TestingLayer\\GameContextTest.cs",
+              "ToolTip": "C:\\Users\\Tedi\\source\\repos\\TediBodushkaPT211j\\TestingLayer\\GameContextTest.cs",
+              "RelativeToolTip": "TestingLayer\\GameContextTest.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAFgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T22:44:45.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TestManager.cs",
+              "DocumentMoniker": "C:\\Users\\Tedi\\source\\repos\\TediBodushkaPT211j\\TestingLayer\\TestManager.cs",
+              "RelativeDocumentMoniker": "TestingLayer\\TestManager.cs",
+              "ToolTip": "C:\\Users\\Tedi\\source\\repos\\TediBodushkaPT211j\\TestingLayer\\TestManager.cs",
+              "RelativeToolTip": "TestingLayer\\TestManager.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T22:39:44.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250415221942_initial.cs",
+              "DocumentMoniker": "C:\\Users\\Tedi\\source\\repos\\TediBodushkaPT211j\\DataLayer\\Migrations\\20250415221942_initial.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Migrations\\20250415221942_initial.cs",
+              "ToolTip": "C:\\Users\\Tedi\\source\\repos\\TediBodushkaPT211j\\DataLayer\\Migrations\\20250415221942_initial.cs",
+              "RelativeToolTip": "DataLayer\\Migrations\\20250415221942_initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T22:19:42.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IDb.cs",
+              "DocumentMoniker": "C:\\Users\\Tedi\\source\\repos\\TediBodushkaPT211j\\DataLayer\\IDb.cs",
+              "RelativeDocumentMoniker": "DataLayer\\IDb.cs",
+              "ToolTip": "C:\\Users\\Tedi\\source\\repos\\TediBodushkaPT211j\\DataLayer\\IDb.cs",
+              "RelativeToolTip": "DataLayer\\IDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T21:47:21.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GenreContext.cs",
+              "DocumentMoniker": "C:\\Users\\Tedi\\source\\repos\\TediBodushkaPT211j\\DataLayer\\GenreContext.cs",
+              "RelativeDocumentMoniker": "DataLayer\\GenreContext.cs",
+              "ToolTip": "C:\\Users\\Tedi\\source\\repos\\TediBodushkaPT211j\\DataLayer\\GenreContext.cs",
+              "RelativeToolTip": "DataLayer\\GenreContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T21:47:13.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameContext.cs",
+              "DocumentMoniker": "C:\\Users\\Tedi\\source\\repos\\TediBodushkaPT211j\\DataLayer\\GameContext.cs",
+              "RelativeDocumentMoniker": "DataLayer\\GameContext.cs",
+              "ToolTip": "C:\\Users\\Tedi\\source\\repos\\TediBodushkaPT211j\\DataLayer\\GameContext.cs",
+              "RelativeToolTip": "DataLayer\\GameContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T21:46:55.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserContext.cs",
+              "DocumentMoniker": "C:\\Users\\Tedi\\source\\repos\\TediBodushkaPT211j\\DataLayer\\UserContext.cs",
+              "RelativeDocumentMoniker": "DataLayer\\UserContext.cs",
+              "ToolTip": "C:\\Users\\Tedi\\source\\repos\\TediBodushkaPT211j\\DataLayer\\UserContext.cs",
+              "RelativeToolTip": "DataLayer\\UserContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T21:46:39.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GamesDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Tedi\\source\\repos\\TediBodushkaPT211j\\DataLayer\\GamesDbContext.cs",
+              "RelativeDocumentMoniker": "DataLayer\\GamesDbContext.cs",
+              "ToolTip": "C:\\Users\\Tedi\\source\\repos\\TediBodushkaPT211j\\DataLayer\\GamesDbContext.cs",
+              "RelativeToolTip": "DataLayer\\GamesDbContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T21:46:17.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Tedi\\source\\repos\\TediBodushkaPT211j\\BusinessLayer\\User.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\User.cs",
+              "ToolTip": "C:\\Users\\Tedi\\source\\repos\\TediBodushkaPT211j\\BusinessLayer\\User.cs",
+              "RelativeToolTip": "BusinessLayer\\User.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T21:36:20.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\Tedi\\source\\repos\\TediBodushkaPT211j\\BusinessLayer\\Genre.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Genre.cs",
+              "ToolTip": "C:\\Users\\Tedi\\source\\repos\\TediBodushkaPT211j\\BusinessLayer\\Genre.cs",
+              "RelativeToolTip": "BusinessLayer\\Genre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T21:35:42.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\Tedi\\source\\repos\\TediBodushkaPT211j\\BusinessLayer\\Game.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Game.cs",
+              "ToolTip": "C:\\Users\\Tedi\\source\\repos\\TediBodushkaPT211j\\BusinessLayer\\Game.cs",
+              "RelativeToolTip": "BusinessLayer\\Game.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T21:35:29.707Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
